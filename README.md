@@ -4,5 +4,5 @@
 
 ### Welcome to see my [LinkedIn Page](https://www.linkedin.com/in/camille-smith-94259b24b/)
 
-## [Creative Portolio] (https://camillesmithportfolio.my.canva.site)
-## [Visual Communications Portolio] (https://csmithvisualcommunications.my.canva.site)
+## [Creative Portolio](https://camillesmithportfolio.my.canva.site)
+## [Visual Communications Portolio](https://csmithvisualcommunications.my.canva.site)
