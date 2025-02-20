@@ -6,3 +6,6 @@
 
 ## [Creative Portolio](https://camillesmithportfolio.my.canva.site)
 ## [Visual Communications Portolio](https://csmithvisualcommunications.my.canva.site)
+
+
+[Lehigh University Enrollment Fall 2024]file:///Users/camillesmith/Desktop/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png
