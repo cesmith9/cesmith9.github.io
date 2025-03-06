@@ -7,7 +7,8 @@
 ## [Creative Portolio](https://camillesmithportfolio.my.canva.site)
 ## [Visual Communications Portolio](https://csmithvisualcommunications.my.canva.site)
 
-
+# Lehigh University Enrollment Fall 2024 Infogaphic 
+## Lehigh University students come from a variety of places
 ![Lehigh University Enrollment Fall 2024](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png?raw=true)
 
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
