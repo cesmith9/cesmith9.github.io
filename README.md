@@ -8,4 +8,6 @@
 ## [Visual Communications Portolio](https://csmithvisualcommunications.my.canva.site)
 
 
-[Lehigh University Enrollment Fall 2024]file:///Users/camillesmith/Desktop/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png
+[Lehigh University Enrollment Fall 2024](file:///Users/camillesmith/Desktop/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png)
+
+![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
