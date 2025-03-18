@@ -10,7 +10,7 @@
 # Lehigh University Enrollment Fall 2024 Infogaphic 
 ## Lehigh University students come from a variety of places
 ### prapraph of the locations of Lehigh Students 
-![Lehigh University Enrollment Fall 2024](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png?raw=true){height="36px" width="36px"}
+![Lehigh University Enrollment Fall 2024](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png?raw=true)
 
 # Lehigh University's Undergraduate Colleges Enrollment 
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
