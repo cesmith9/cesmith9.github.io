@@ -12,6 +12,10 @@
 ### prapraph of the locations of Lehigh Students 
 ![Lehigh University Enrollment Fall 2024](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh%20Undergrad%20Enrollment%20Fall%20'24.png?raw=true)
 
+# Where do Lehigh Student's Study Abroad 
+### paragraph about where student study abroad0- percent that do 
+
+
 # Lehigh University's Undergraduate Colleges Enrollment 
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
 
