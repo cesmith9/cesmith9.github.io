@@ -14,7 +14,7 @@
 
 # Where do Lehigh Student's Study Abroad 
 ### paragraph about where student study abroad0- percent that do 
-![Lehigh University Study Abroad Locations](https://github.com/cesmith9/cesmith9.github.io/blob/7e98bbeebc0aea95e04a306d10282d2dfdee7ec6/Study%20Abroad%20LU%20.png)
+![Lehigh University Study Abroad Locations](https://github.com/cesmith9/cesmith9.github.io/blob/main/Study%20Abroad%20LU%20.png?raw=true)
 
 # Lehigh University's Undergraduate Colleges Enrollment 
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
