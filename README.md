@@ -30,5 +30,5 @@
 # Top Cycling Cities in 2019
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14ECvCvd6T3hDLHKMKagurewfFjxrvYg&ehbc=2E312F" width="640" height="480"></iframe>
 
-# Summer Olympics Host since 2002
+# Summer Olympics Host since 2000
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UWxZ0yU9kvbGQBLMg0VZc4l0vW23BTg&ehbc=2E312F" width="640" height="480"></iframe>
