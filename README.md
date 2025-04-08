@@ -19,7 +19,7 @@
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
 
 # Lehigh university's Undergraduate Class of 2024 Success after Graducation
-![Lehigh University Class of 2024 Success After Graduation](https://github.com/cesmith9/cesmith9.github.io/blob/6d976f665a251b8e0a26ba5ba086648bfddfef13/Lehigh_University_Undergraduate_Class_of_2024_Success_After_Graduation__Percent_chartbuilder.png)
+![Lehigh University Class of 2024 Success After Graduation](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh_University_Undergraduate_Class_of_2024_Success_After_Graduation__Percent_chartbuilder.png?raw=true)
 
 # Top Cycling Cities in 2019
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14ECvCvd6T3hDLHKMKagurewfFjxrvYg&ehbc=2E312F" width="640" height="480"></iframe>
