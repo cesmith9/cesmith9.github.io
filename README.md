@@ -15,8 +15,10 @@
 ### paragraph about where student study abroad0- percent that do 
 ![Lehigh University Study Abroad Locations](https://github.com/cesmith9/cesmith9.github.io/blob/main/Study%20Abroad%20LU%20.png?raw=true)
 
+# Lehigh- Lafayette Rivalry Timeline 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vTnOVZ5rrPalZUfXTlG5TUFF9VYKLd5S6UyiX005EtGOZ_c5K-qFJooZ0yHOglRxLPzHZ7OIHMMfMs3&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 # Coachella Timeline 
-## 1999- 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vSiDCF3mFt3PEahQJQjFHwRyc5FF5aiOIWKQdu7tMw1lBT6Uzw6vPuyZCRcKfDGO8zr8_iYLkGLvMXO&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 # Lehigh University's Undergraduate Colleges Enrollment 
