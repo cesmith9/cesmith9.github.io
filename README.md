@@ -16,9 +16,11 @@
 ![Lehigh University Study Abroad Locations](https://github.com/cesmith9/cesmith9.github.io/blob/main/Study%20Abroad%20LU%20.png?raw=true)
 
 # Lehigh- Lafayette Rivalry Timeline 
+## 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vTnOVZ5rrPalZUfXTlG5TUFF9VYKLd5S6UyiX005EtGOZ_c5K-qFJooZ0yHOglRxLPzHZ7OIHMMfMs3&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Coachella Timeline 
+## 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vSiDCF3mFt3PEahQJQjFHwRyc5FF5aiOIWKQdu7tMw1lBT6Uzw6vPuyZCRcKfDGO8zr8_iYLkGLvMXO&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 # Lehigh University's Undergraduate Colleges Enrollment 
@@ -31,4 +33,5 @@
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14ECvCvd6T3hDLHKMKagurewfFjxrvYg&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Summer Olympics Host since 2000
+### Since the year 2000, the Summer Olympics have been hosted by dynamic cities around the globe, each bringing unique cultural significance and innovation to the Games. The next Summer Olympics will be held in Los Angeles, Califonia 2028. The last 25 years have showcased history making moments such as Usain Bolt breaking the 100m, 9.58 sec., and 200m, 19.19 sec, world record. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UWxZ0yU9kvbGQBLMg0VZc4l0vW23BTg&ehbc=2E312F" width="640" height="480"></iframe>
