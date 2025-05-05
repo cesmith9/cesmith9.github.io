@@ -16,7 +16,7 @@
 ![Lehigh University Study Abroad Locations](https://github.com/cesmith9/cesmith9.github.io/blob/main/Study%20Abroad%20LU%20.png?raw=true)
 
 # Lehigh- Lafayette Rivalry Timeline 
-### The Lehigh-Lafayette football rivalry is the most-plated football rivalry in college history, dating back to 1884. The two schools, located 17 miles apart, celebrated their 165th meeting. Lehigh defeted Lafayette with a final score of XXX, clinching their 13th Patriot Leauge Championship. Each year, Lehigh and Lafayette alums, current student body, and Lehigh Valley community come together to celebrate the long standing tradition through a variety of Rivalry Week activities. Events like banner hanging and the bed racing on Packard to name a few only add to the legacy that is LeLaf.  
+### The Lehigh-Lafayette football rivalry is the most-plated football rivalry in college history, dating back to 1884. The two schools, located 17 miles apart, celebrated their 165th meeting. Lehigh defeted Lafayette with a final score of 38-14, clinching their 13th Patriot Leauge Championship. Each year, Lehigh and Lafayette alums, current student body, and Lehigh Valley community come together to celebrate the long standing tradition through a variety of Rivalry Week activities. Events like banner hanging and the bed racing on Packard to name a few only add to the legacy that is LeLaf.  
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vTnOVZ5rrPalZUfXTlG5TUFF9VYKLd5S6UyiX005EtGOZ_c5K-qFJooZ0yHOglRxLPzHZ7OIHMMfMs3&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Coachella Timeline 
@@ -28,6 +28,7 @@
 ![ my image](https://github.com/cesmith9/cesmith9.github.io/blob/main/Fall2024LU_UndergraduateEnrollment.png?raw=true)
 
 # Lehigh university's Undergraduate Class of 2024 Success after Graducation
+### Each year a variety of publication post article highlighting the perstuge of colleges and universities all over the contry. I wanted to explore the placement of Lehigh's Class of 2024. This inforgraphic below shares that a majority of students entered the workforce while others deceided to pursure futher education. 
 ![Lehigh University Class of 2024 Success After Graduation](https://github.com/cesmith9/cesmith9.github.io/blob/main/Lehigh_University_Undergraduate_Class_of_2024_Success_After_Graduation__Percent_chartbuilder.png?raw=true)
 
 # Top Cycling Cities in 2019
@@ -35,5 +36,5 @@
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14ECvCvd6T3hDLHKMKagurewfFjxrvYg&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Summer Olympics Host since 2000
-### Since the year 2000, the Summer Olympics have been hosted by dynamic cities around the globe, each bringing unique cultural significance and innovation to the Games. The next Summer Olympics will be held in Los Angeles, Califonia 2028. The last 25 years have showcased history making moments such as Usain Bolt breaking the 100m, 9.58 sec., and 200m, 19.19 sec, world record. 
+### Since the year 2000, the Summer Olympics have been hosted by dynamic cities around the globe, each bringing unique cultural significance and innovation to the Games. The next Summer Olympics will be held in Los Angeles, Califonia 2028. The last 25 years have showcased history making moments such as Usain Bolt breaking the 100m, 9.58 sec., and 200m, 19.19 sec, world record. During the XXX Games at XXXX, Simone Biles dethroned Micheal Phelps as the most Olymics medals ever. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UWxZ0yU9kvbGQBLMg0VZc4l0vW23BTg&ehbc=2E312F" width="640" height="480"></iframe>
