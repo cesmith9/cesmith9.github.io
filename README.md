@@ -1,4 +1,4 @@
-# Camille Smith GitHub.io
+# Camille Smith GitHub.io Portfolio | Data Journalism Spring 2025 
 ![Image alt](https://github.com/cesmith9/cesmith9.github.io/blob/67c3a17ffc0639ceee75fe58d394132f84797088/junioryearheadshot.JPG)
 #### Hello, my name is Camille Smith, I am a current Student-Athlete at Lehigh University pursing a Bachelors of Art in Journalism & Communications with a minor in Marketing. As a Marketing and Journalism student, I am to leverage my education background, my go-getter mentality, coupled with hands-on sales experiences and string teamwork skills, to contibute  meaningfully to a dynamic organization. Outside of my professional experience, I am an active member of Lehigh University's Brown and White Newspaper as a Sports Writer and a dedicated member of the Lehigh University Women’s Soccer team.
 
